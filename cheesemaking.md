@@ -15,6 +15,7 @@ Camembert with custom labels I made.
 Blue stilton and asiago
 
 ### Ingredients
+I get most of my supplies from [New England Cheese Supply](https://cheesemaking.com/). They have a full range of cultures, rennet, moulds and molds.
 
 #### Milk selection
 Milk is composed of 2 main types of protein: casein and whey. Casein is what cheese is made of. During cheesemaking the water soluble whey is removed from the milk. The remaining casein and milkfat are called curds, which we form into cheese. I make most of my cheeses from whole cows milk that I buy at the grocery store. I've also made cheese with goat's milk that I usually find at Trader Joe's. As long as the milk isn't ultra pasteurized it can usually be made into cheese as ultra pasteurized milk tends to have trouble setting a firm curd.
@@ -51,9 +52,6 @@ While some cheeses can be enjoyed fresh, most cheeses are aged. Aging temperatur
 
 ### Recipes
 Gavin Webber's YouTube [tutorials](https://www.youtube.com/channel/UCE31MqUy6nIMJ_f8y4R3_AA) are a great resource. This is the YouTube channel that I watched and followed when I was starting out. He breaks down the process in an easy to consume way and even has videos showing tastings! Once you feel more comfortable with the process you can move on to more complex [recipes](https://cheesemaking.com/collections/recipes). I also own a copy of [Home Cheese Making](https://cheesemaking.com/products/home-cheese-making-book) (4th edition) by Rikki Carroll. It's widely considered *the* go-to book for home cheesemaking. It is a great resource!
-
-### Supplies
-I get most of my supplies from [New England Cheese Supply](https://cheesemaking.com/). They have a full range of cultures, rennet, moulds and molds. Be sure to join their email list as you get 10% off your first order.
 
 ### Custom equipment
 Over the years I have put together some custom equipment for cheesemaking. Hopefully someday I will provide deep-dives into how each of these came together.
