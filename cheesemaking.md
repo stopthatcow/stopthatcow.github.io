@@ -4,7 +4,7 @@ title: Cheesemaking
 subtitle: A delicious hobby
 ---
 
-I stared making cheese in late 2017. My first batch was a Bel Paese, based off of [this](https://www.youtube.com/channel/UCE31MqUy6nIMJ_f8y4R3_AA) tutorial. Since then I've gone on to make asiago, parmesan, blue stilton, gorgonzola, brie, camembert, crottin, chevre, caerphilly, monterey jack, habanero cheddar, saint marcelin, manchego and more! Thirty plus cheeses!
+I stared making cheese in late 2017. My first batch was a Bel Paese, based off of [this](https://www.youtube.com/channel/UCE31MqUy6nIMJ_f8y4R3_AA) tutorial. Since then I've gone on to make asiago, parmesan, blue stilton, gorgonzola, brie, camembert, crottin, chevre, caerphilly, monterey jack, habanero cheddar, saint marcelin, manchego, and more! Over thirty batches so far!
 
 <img src="/assets/img/camembert.jpg" width="360" />
 <img src="/assets/img/camembert_label.jpg" width="360" /><br>
@@ -15,7 +15,7 @@ Camembert with custom labels I made.
 Blue stilton and asiago
 
 ### Ingredients
-I get most of my supplies from [New England Cheese Supply](https://cheesemaking.com/). They have a full range of cultures, rennet, moulds and molds.
+Good ingredients make good cheese. I get most of my supplies from [New England Cheese Supply](https://cheesemaking.com/). They have a full range of cultures, rennet, moulds and molds.
 
 #### Milk selection
 Milk is composed of 2 main types of protein: casein and whey. Casein is what cheese is made of. During cheesemaking the water soluble whey is removed from the milk. The remaining casein and milkfat are called curds, which we form into cheese. I make most of my cheeses from whole cows milk that I buy at the grocery store. I've also made cheese with goat's milk that I usually find at Trader Joe's. As long as the milk isn't ultra pasteurized it can usually be made into cheese as ultra pasteurized milk tends to have trouble setting a firm curd.
@@ -72,7 +72,7 @@ A cheese press is used to make hard cheeses such as cheddar and parmesan. I deci
 
 
 #### Camembert caddie
-Camemberts are made in open-ended molds. They require flipping upwards of 6 times while they are draining in order to properly consolidate. Usually each mold is placed in a "sandwich" which adds a draining mat (usually bamboo or plastic mesh mat) and cutting board to both ends of a mold. Each mold must be flipped individually with 1 hand on each side leading to a very tedious process. To work around this I created a "caddie" that can hold and flip 6 camembert at once. This ensures that they don't slip when flipping.
+Camemberts are made in open-ended molds. They require flipping upwards of 6 times while they are draining in order to properly consolidate. Usually each mold is placed in a "sandwich" which adds a draining mat (usually bamboo or plastic mesh mat) and cutting board to both ends of a mold. Each mold must be flipped individually with 1 hand on each side leading to a very tedious process. To work around this I created a "caddie" that can hold and flip 6 camembert at once. This ensures that they don't slip when flipping. I now make 12 camemberts per batch from 6 gallons of milk using 2 caddies.
 
 <img src="/assets/img/caddie_top.jpg" width="360" />
 <img src="/assets/img/caddie_side.jpg" width="360" /><br>
