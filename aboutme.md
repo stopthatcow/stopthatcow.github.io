@@ -1,16 +1,17 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: Nic Wiles
+subtitle: Maker, thinker, tinkerer
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+Hi, I'm Nic and I'm a software engineer living in San Francisco, CA.
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+<!--
+# TODO(stopthatcow): Add resume link.
+-->
 
-What else do you need?
+### Work
+I'm an aerospace engineer by training and have experiance with C++, Python, UAVs, and embedded systems. I'm presently a software engineer at [Waymo](https://www.waymo.com) where we are working to bring safe and reliable self-driving cars to the world. Previously I worked at Lily Robotics, Airware, and Boeing (on the [YMQ-18 UAV](https://en.wikipedia.org/wiki/Boeing_A160_Hummingbird)). For more background see my [LinkedIn](https://www.linkedin.com/in/nicholas-wiles-35805912).
 
-### my history
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+### Play
+Outside of work I enjoy cheese making, cooking, backpacking, and cycling. I also love to tinker with electronics and software.
