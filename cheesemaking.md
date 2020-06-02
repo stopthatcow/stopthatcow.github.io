@@ -15,13 +15,13 @@ Camembert with custom labels I made.
 Blue stilton and asiago
 
 ### Process
-Cheesemaking is the art of spoiling milk in just the right way. The process for most chesses involves the following steps: ripening, coagulation, cutting/cooking the curd, consolidation, salting, and aging. In order for milk to separate into curds (the cheese) and whey (water soluble milk protein) it needs to be acidified. Acidification is usually performed by a bacterial culture. Alternatively acid can be added directly to hot milk such as when making ricotta, but here I will focus on cultured cheeses.
+Cheesemaking is the art of spoiling milk in just the right way. The process for most chesses involves the following steps: acidification, coagulation, cutting/cooking the curd, consolidation, salting, and aging. In order for milk to separate into curds (the cheese) and whey (water soluble milk protein) it needs to be acidified. Acidification is usually performed by a bacterial culture. Alternatively acid can be added directly to hot milk such as when making ricotta, but here I will focus on cultured cheeses.
 
 #### Milk selection
 I make most of my cheeses from whole cows milk. As long as the milk isn't ultra pasteurized it can usually be made into cheese. I've also made cheese with goat's milk that I usually find at Trader Joe's.
 
-#### Ripening (acidification)
-Ripening involves warming the milk to a defined temperature (based on the type of culture) and letting microbes (either present in raw milk or from an added culture) convert lactose into lactic acid. This process takes anywhere from 30 min to 24 hours depending on the recipe.
+#### Acidification (ripening)
+In cultured cheeses the acidification step is called ripening. This involves warming the milk to a defined temperature (based on the type of culture) and letting microbes (either present in raw milk or from an added culture) convert lactose into lactic acid. This process takes anywhere from 30 min to 24 hours depending on the recipe.
 
 #### Coagulation
 Once acidified the milk is coagulated using an enzyme called rennet. Rennet was originally derived from the stomach of nursing calfs but now days there are vegetarian sources. Once the rennet is added, coagulation takes 30 to 90 minutes.
