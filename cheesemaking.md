@@ -14,29 +14,40 @@ Camembert with custom labels I made.
 <img src="/assets/img/asiago.jpg" width="360" /><br>
 Blue stilton and asiago
 
-### Process
-Cheesemaking is the art of spoiling milk in just the right way. The process for most chesses involves the following steps: acidification, coagulation, cutting/cooking the curd, consolidation, salting, and aging. In order for milk to separate into curds (the cheese) and whey (water soluble milk protein) it needs to be acidified. Acidification is usually performed by a bacterial culture. Alternatively acid can be added directly to hot milk such as when making ricotta, but here I will focus on cultured cheeses.
+### Ingredients
 
 #### Milk selection
-I make most of my cheeses from whole cows milk. As long as the milk isn't ultra pasteurized it can usually be made into cheese. I've also made cheese with goat's milk that I usually find at Trader Joe's.
+Milk is composed of 2 main types of protein: casein and whey. Casein is what cheese is made of. During cheesemaking the water soluble whey is removed from the milk. The remaining casein and milkfat are called curds, which we form into cheese. I make most of my cheeses from whole cows milk that I buy at the grocery store. I've also made cheese with goat's milk that I usually find at Trader Joe's. As long as the milk isn't ultra pasteurized it can usually be made into cheese as ultra pasteurized milk tends to have trouble setting a firm curd.
+
+#### Culture
+Bacterial cultures help preserve milk by reducing its sugar content and lowering its pH (acidifying). Cultures convert lactose sugar into lactic acid, giving cheese its tangy flavor. In addition, the lower pH is needed to allow the milk to coagulate. Cultures come in 2 main catagories: mesophilic and thermophilic. Mesophilic cultures are those that thrive at temperatures in the range of 25 to 35°C. These cultures are use to make most cheeses including cheddar, blue cheese, gouda, and most softer cheeses. Thermophilic cultures like warmer temperatures in the range of 35 to 50°C. Thermophilic cultures are used to make cheeses such as parmesan, asiago, swiss, and gruyere.
+
+#### Rennet
+Rennet is the magical enzyme that turns milk into cheese. It was originally derived from the stomach of nursing calfs, but now days there are vegetarian sources. Rennet causes milk to separate into curds and whey.
+
+#### Molds and additives
+Molds and additional bacteria are sometimes added to cheeses to change their flavor. Blue mold like *penicillium roqueforti* is what gives blue cheese its funky flavor. White molds like *penicillium candidum* and *geotrichum candidum* give camembert and brie their gooey texture and earthy flavor. The red bacteria *brevibacterium linens* gives limberger and munster their distinctive color and strong smell/flavor. *Propionibacterium shermanii* is what gives swiss cheese its characteristic holes.
+
+### Process
+Cheesemaking is the art of spoiling milk in just the right way. The process for most chesses involves the following steps: acidification, coagulation, cutting/cooking, consolidation, salting, and aging. In order for milk to separate into curds and whey it needs to be acidified. Acidification is usually performed by a bacterial culture. Alternatively acid can be added directly to hot milk such as when making ricotta, but here I will focus on cultured cheeses.
 
 #### Acidification (ripening)
 In cultured cheeses the acidification step is called ripening. This involves warming the milk to a defined temperature (based on the type of culture) and letting microbes (either present in raw milk or from an added culture) convert lactose into lactic acid. This process takes anywhere from 30 min to 24 hours depending on the recipe.
 
 #### Coagulation
-Once acidified the milk is coagulated using an enzyme called rennet. Rennet was originally derived from the stomach of nursing calfs but now days there are vegetarian sources. Once the rennet is added, coagulation takes 30 to 90 minutes.
+Once acidified the milk is coagulated using rennet. When the rennet is added, coagulation takes 30 to 90 minutes. After this period the curd is checked for a "clean break." A knife is inserted into the curd pulled slightly to the side to see how well the curd holds its edge. A well set curd will hold an edge without fracturing.
 
 #### Cutting and cooking the curd
-Most hard cheeses require the curd to be cooked in order to help separate the curds and whey. The curd is cut into small cubes and stirred. For drier cheeses like parmesan the curd temperature is raised and the curds are "cooked" to expel more whey. Many softer cheeses skip this step.
+Most hard cheeses require the curd to be cut in order to help separate the curds and whey. The curd is cut into small cubes and stirred. For drier cheeses like parmesan the curd temperature is raised and the curds are "cooked" to expel more whey. Many softer cheeses skip cutting and cooking entirely.
 
 #### Consolidating the curds
-Curds are consolidated either by hanging them in cheesecloth or by pressing. In general the denser the final cheese the more weight is used for pressing.
+Curds are consolidated either by hanging them in cheesecloth or by pressing. Some cheeses are allowed to consolidate under their own weight while others have external weight applied. In general the denser the final cheese the more weight is used for pressing.
 
 #### Salting
-Some cheeses are salted directly before being pressed. Soft cheeses are often just sprinkled with salt. Many harder cheese are soaked for hours in a saturated brine solution after being pressed. 
+Some cheeses are salted directly before being pressed. Soft cheeses are often just sprinkled with salt. Many harder cheese are soaked for hours in a saturated salt water brine solution after being pressed. 
 
 #### Aging
-While some cheeses are not aged at all, most are. Aging temperature and process vary a lot and are designed to bring out desired surface microbes. During aging the cheese develops the majority of it flavor. Aging can be as short as a few weeks or as longs several years!
+While some cheeses can be enjoyed fresh, most cheeses are aged. Aging temperature, humidity, and handling vary a lot and are designed to bring out desired surface microbes. During aging these microbes help the cheese develop its flavor. Aging can be as short as a few weeks or as longs several years!
 
 ### Recipes
 Gavin Webber's YouTube [tutorials](https://www.youtube.com/channel/UCE31MqUy6nIMJ_f8y4R3_AA) are a great resource. This is the YouTube channel that I watched and followed when I was starting out. He breaks down the process in an easy to consume way and even has videos showing tastings! Once you feel more comfortable with the process you can move on to more complex [recipes](https://cheesemaking.com/collections/recipes). I also own a copy of [Home Cheese Making](https://cheesemaking.com/products/home-cheese-making-book) (4th edition) by Rikki Carroll. It's widely considered *the* go-to book for home cheesemaking. It is a great resource!

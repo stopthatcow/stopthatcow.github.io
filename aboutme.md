@@ -4,7 +4,7 @@ title: Nic Wiles
 subtitle: Maker, thinker, tinkerer
 ---
 
-Hi, I'm Nic and I'm a software engineer living in San Francisco, CA.
+Hi, I'm Nic! I'm a software engineer living in San Francisco, CA.
 
 <!--
 # TODO(stopthatcow): Add resume link.
