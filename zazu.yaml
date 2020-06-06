@@ -1,0 +1,14 @@
+# Zazu file for stopthatcow.github.io.
+
+issue_tracker:
+    type: github
+    owner: stopthatcow
+    repo: stopthatcow.github.io
+
+code_reviewer:
+    type: github
+    owner: stopthatcow
+    repo: stopthatcow.github.io
+
+branches:
+    develop: master  # Features will be started from the "master" branch.
