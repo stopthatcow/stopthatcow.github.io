@@ -36,18 +36,18 @@ Batch three.
 - 1/8 cup lemon juice
 - 2 packs of Sure-Jell pectin
 
-Yields about 16 cup jars
+Yields about 16 cup jars.
 
 ### Steps:
 
-1. Wash berries
-2. In a large pot, smash berries into a pulp (don't be afraid to use your hands)
+1. Wash berries.
+2. In a large pot, smash berries into a pulp (don't be afraid to use your hands).
 3. Strain pulp through through flour sifter (retaining 1 cup of seed pulp). 24 cups of berries should yield 16 cups of juice.
-4. Boil juice, reducing to about 8 cups of liquid (We used an instant pot with the lid off and it worked really well)
-5. Add 1 cup of seed pulp to juice to give it a bit of body
-6. Add sugar, stir until dissolved
-7. Add pectin
-8. Cook, stirring continuously until temperature reaches 223 °F
+4. Boil juice, reducing to about 8 cups of liquid (We used an instant pot with the lid off and it worked really well).
+5. Add 1 cup of seed pulp to juice to give it a bit of body.
+6. Add sugar, stir until dissolved.
+7. Add pectin.
+8. Cook, stirring continuously until temperature reaches 223 °F.
 
 ### Jar prep (Sterilizing can be done while jam is cooking):
 
