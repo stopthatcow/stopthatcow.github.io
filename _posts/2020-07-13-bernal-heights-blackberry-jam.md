@@ -4,18 +4,18 @@ title: Bernal Heights Blackberry Jam
 subtitle: Third time's the charm
 ---
 
-It turns out that Bernal Heights in San Francisco is covered with blackberries! Over the course of a couple of weeks in July of 2019 my friend Bryan and I picked about five gallons worth. We made 1 bach of jam and froze the remaining berries. We ended up making three batches of jam over the course of the next year.
+It turns out that Bernal Heights in San Francisco is covered with blackberries! Over the course of a couple of weeks in July of 2019 my friend Bryan and I picked about five gallons worth. We made 1 bach of jam and froze the remaining berries. We ended up making two more batches of jam over the course of the next year.
 
 <img src="/assets/img/bb_jam_berries.jpg" width="720" /><br>
 A small fraction of our haul.
 
-The first batch we made with fresh berries and we decided to use the whole fruit (seeds and all). This was a mistake. The result, while delicious was very crunchy and not in a good way. For batch two in August of 2019 we deseeded the berries. This was not an easy task! We crushed the berries by hand and then pushed them through a flour sifter. Going mostly seedless greatly improved the texture however we used a bit too much pectin. This made the jam a bit hard to spread but it had an amazing flavor. In our third and final batch in May of 2020, we finally got everything just right! The following pictures are a mashup across all 3 batches.
+The first batch we made with fresh berries and we decided to use the whole fruit (seeds and all). This was a mistake. The result, while delicious was very crunchy and not in a good way. For batch two in August of 2019 we deseeded the berries. This was not an easy task! We crushed the berries by hand and then pushed them through a flour sifter. Going mostly seedless greatly improved the texture however we used a bit too much pectin. This made the jam a bit hard to spread but it had an amazing flavor. We made our third and final batch in May of 2020 and finally got everything just right! The following pictures are a mashup across all three batches.
 
 <img src="/assets/img/bb_jam_deseeding.jpg" width="720" /><br>
 <img src="/assets/img/bb_jam_blackberry_hand.jpg" width="720" /><br>
 Smashing and deseeding.
 
-There are probably better, less messy ways, but this seemed to give us a pretty good result. In batches 2 and 3 we added a bit of the seed pulp back to the juice to give the jam some body.
+There are probably better and less messy ways, but this seemed to give us a pretty good result. In batches two and three we added a bit of the seed pulp back to the juice to give the jam some body.
 
 <img src="/assets/img/bb_jam_cooking.jpg" width="720" /><br>
 Cooking
