@@ -54,6 +54,8 @@ Yields about 16 cup jars.
 
 ### Jar prep (Sterilizing can be done while jam is cooking):
 
+For detailed instructions see [here](https://www.freshpreserving.com/water-bath-canning).
+
 1. Sterilize by boiling 16 1-cup jars with lids (in batches).
 2. Fill jars to within 1/2" of top with hot jam.
 3. Using a cloth or paper towel dipped in boiling water clean around each jar's rim and then add a lid.
