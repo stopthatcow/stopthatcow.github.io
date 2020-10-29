@@ -2,6 +2,7 @@
 layout: page
 title: Black Garlic
 subtitle: A savory spice for all occasions
+tags: food
 ---
 
 I love onions and garlic. My mother uses generous amounts of both in her cooking and that is what I grew up on. I think I first learned about black garlic at my office, where they served a delicious black garlic Caesar salad. [Black garlic](https://en.wikipedia.org/wiki/Black_garlic) is what you get when you take regular garlic and cook it on low heat for multiple weeks. The flavor is amazing. It's complex, caramelly, sweet, and loses the bite you'd associate with raw or even sautéed garlic. These flavors are thanks to the [Maillard reaction](https://en.wikipedia.org/wiki/Maillard_reaction). It's the same thing that makes toast brown.

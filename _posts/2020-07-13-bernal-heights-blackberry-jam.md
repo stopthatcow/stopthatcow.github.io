@@ -2,6 +2,7 @@
 layout: page
 title: Bernal Heights Blackberry Jam
 subtitle: Third time's the charm
+tags: food
 ---
 
 It turns out that Bernal Heights in San Francisco is covered with blackberries! Over the course of a couple of weeks in July of 2019 my friend Bryan and I picked about five gallons worth. We made 1 bach of jam and froze the remaining berries. We ended up making two more batches of jam over the course of the next year.

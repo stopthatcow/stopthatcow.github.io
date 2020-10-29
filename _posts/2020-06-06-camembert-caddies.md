@@ -2,6 +2,7 @@
 layout: page
 title: Camembert Caddies
 subtitle: Making camembert in "bulk"
+tags: food
 ---
 
 [Camembert](https://en.wikipedia.org/wiki/Camembert) is a French style cheese from the Normandy region. It is a white-mold ripened soft cheese made in 4 inch round discs. Because each cheese settles under its own weight in the mold, they must be flipped periodically while they are consolidating. Camembert molds are open-ended to promote draining so this is a very tedious process. Until now I had been using four bamboo sushi mats (two on each side in a chris-cross orientation) to flip each mold. This worked okay for two molds at a time, but as you can see below, sometimes it got a bit messy.
