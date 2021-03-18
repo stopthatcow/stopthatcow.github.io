@@ -5,11 +5,9 @@ subtitle: It's addictive.
 tags: food
 ---
 
-<img src="/assets/img/salsa.jpg" width="720" /><br>
-
 [Papalote](https://papalote-sf.com/) is a taqueria in the heart of the Mission neighborhood of San Francisco, CA. I first tried their salsa, which has its own [website](https://papalotesalsa.com/), in late 2020. It changed the way I thought about salsa. It's creamy, full of flavor, and just the right amount of spicy. It's also $7 a jar...so I set out to see if I could replicate it at home. After some online research I came across [this page](https://saltandwind.com/recipes/203-papalote-roasted-tomato-salsa-recipe) which claimed to make a similar salsa. I tried their recipe but it didn't quite match my expectations. It was too acidic and not as creamy as I'd hoped. The recipe is over 10 years old and I believe that Papalote has since updated theirs. I also wanted to play around with replacing the pumpkin seeds with cashews. After about 10 attempts I've honed in on a recipe that tastes great.
 
-<img src="/assets/img/salsa_chip.jpg" width="720" /><br>
+<img src="/assets/img/salsa.jpg" width="720" /><br>
 
 **WARNING: this salsa is highly addictive.**
 
@@ -32,6 +30,8 @@ tags: food
 5. Remove from heat and blend until mostly smooth. (I use an immersion blender).
 6. Drizzle oil in while blending and blend until emulsified.
 7. Chill and serve next day.
+
+<img src="/assets/img/salsa_chip.jpg" width="720" /><br>
 
 I've tried using fresh oven-roasted roma tomatoes and fresh sauteéd garlic but I think the canned tomatoes taste about as good, with far less effort required.
 
